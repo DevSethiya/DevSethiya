@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Dev! <img src="assets/puppy.svg" width="70" align="center" alt="waving puppy"/>
+  Hi, I'm Dev! <img src="assets/panda-bamboo.svg" width="110" align="center" alt="waving panda with bamboo"/>
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@ I'm a Computer Science & Engineering student at **SRM University-AP** (Batch 202
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="assets/laptop.svg" width="220" alt="laptop opening"/>
+  <img src="assets/panda-laptop.svg" width="260" alt="panda working on laptop"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,17 +55,3 @@ I'm a Computer Science & Engineering student at **SRM University-AP** (Batch 202
 
 <p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
 
-<!--
-**DevSethiya/DevSethiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
