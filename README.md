@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Dev! <img src="assets/panda-bamboo.svg" width="110" align="center" alt="waving panda with bamboo"/>
+  Hi, I'm Dev! <img src="assets/box-panda-sticker.webp" width="70" align="center" alt="panda in a box"/>
 </h1>
 
 <p align="center">
@@ -27,7 +27,7 @@ I'm a Computer Science & Engineering student at **SRM University-AP** (Batch 202
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="assets/panda-laptop.svg" width="260" alt="panda working on laptop"/>
+  <img src="assets/hoodie-sticker.webp" width="80" alt="hoodie sticker"/>
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,4 +54,3 @@ I'm a Computer Science & Engineering student at **SRM University-AP** (Batch 202
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting my profile!</i></p>
-
